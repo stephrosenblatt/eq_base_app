@@ -3,6 +3,8 @@
 ## Equisolve Application Developer - Code Assessment - February 2021
 
 ### Overview
+This app us using Ruby version 2.6.3 and Rails 6.1.2.1.
+
 Please use Ruby on Rails and RSpec to complete the following:
 
 You are working within a content management system used to build a website. The team is looking for a tool to easily build a website by importing a CSV of all of the pages that should be on the website and their relative paths.
